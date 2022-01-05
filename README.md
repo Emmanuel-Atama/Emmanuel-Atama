@@ -1,7 +1,7 @@
 About Me 👋
 
 - 🔭 I just finshed a full stack development bootcamp couse with Boolean, see my final solo work 
-  -BAckEnd: https://github.com/Emmanuel-Atama/boolean-uk-final-solo-project-server
+  -BackEnd: https://github.com/Emmanuel-Atama/boolean-uk-final-solo-project-server
   -FrontEnd: https://github.com/Emmanuel-Atama/boolean-uk-final-solo-project-client
 - 🌱 I’m currently learning python programming language
 - 🍓 What I have learnt: HTML, CSS, Javascript, React, Typescript, Node js, Express js, Schema, ES6, PostgreSQL, Jasmine
