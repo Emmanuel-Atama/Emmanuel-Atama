@@ -1,10 +1,5 @@
 About Me 👋
 
-
-**Emmanuel-Atama/Emmanuel-Atama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I just finshed a full stack development bootcamp couse with Boolean, see my final solo work 
   -BAckEnd: https://github.com/Emmanuel-Atama/boolean-uk-final-solo-project-server
   -FrontEnd: https://github.com/Emmanuel-Atama/boolean-uk-final-solo-project-client
