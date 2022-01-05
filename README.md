@@ -1,6 +1,6 @@
 About Me 👋
 
-<!--
+
 **Emmanuel-Atama/Emmanuel-Atama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything and i will be able to give you a reply as soon as possible
 - 📫 How to reach me: atamaemmanuel87@gmail.com
 
--->  
+
