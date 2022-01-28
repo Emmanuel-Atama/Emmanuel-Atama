@@ -1,6 +1,6 @@
 About Me 👋
 
-- 🔭 I just finshed a full stack development bootcamp couse with Boolean, see my final solo work 
+- 🔭 I just finshed a full stack development bootcamp course with Boolean, see my final solo work 
   -BackEnd: https://github.com/Emmanuel-Atama/boolean-uk-final-solo-project-server
   -FrontEnd: https://github.com/Emmanuel-Atama/boolean-uk-final-solo-project-client
 - 🌱 I’m currently learning python programming language
