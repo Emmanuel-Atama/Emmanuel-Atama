@@ -1,7 +1,7 @@
 About Me 👋
 
 - 🔭Full stack software developer (PERN and MERN stack)
-- 🌱 I’m currently learning react librarires and Javascript OOP.
+- 🌱 I’m currently learning react libraries and Javascript OOP.
 - 🍓 What I have learnt: HTML5, CSS3, Javascript, React, PHP, Typescript, Node, Express, Docker, PostgreSQL, Bootstrap5, PHP, MySQL, C#, MongoDB, KANBAN - Agile.
 - 👯 I’m looking to collaborate on any PERN and MERN projects so that i can continue my learning and development
 - 🤔 I’m looking for help with good articles that can facilitate my learning and development as a software developer
